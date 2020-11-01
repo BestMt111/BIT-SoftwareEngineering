@@ -369,7 +369,7 @@
 
 ### 用例图
 
-![alt 用例图](/Users/zouxin/Desktop/uml.png)
+![alt 用例图](/Users/zouxin/Desktop/BIT-SoftwareEngineering/需求分析/uml.png)
 
 
 
